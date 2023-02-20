@@ -6,7 +6,7 @@ import homeassistant.helpers.config_validation as cv
 
 SEGMENT_ID = 'segment_id'
 NAME = 'name'
-DOMAIN = 'skisporet'
+DOMAIN = 'skisporet_v2'
 NEW_HOUR = 'new_hour'
 
 PLATFORMS = [
