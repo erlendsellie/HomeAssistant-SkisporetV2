@@ -1,0 +1,10 @@
+{
+    "domain": "skisporet_v2",
+    "name": "Skisporet",
+    "requirements": [],
+    "version": "0.1",
+    "codeowners": ["@erlendsellie"],
+    "config_flow": true,
+    "documentation": "https://github.com/erlendsellie/HomeAssistant-SkisporetV2/",
+    "issue_tracker": "https://github.com/erlendsellie/HomeAssistant-SkisporetV2/issues"
+}

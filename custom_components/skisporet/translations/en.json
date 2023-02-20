@@ -1,0 +1,32 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Skisporet Sensor",
+        "description": "Setup a Skisporet sensor",
+        "data": {
+          "name": "Name",
+          "segment_id": "Segment ID"
+        }
+      }
+    },
+    "error": {
+      "name_exists": "Name already exists"
+    }
+  },
+  "options": {
+    "step": {
+      "edit": {
+        "title": "Skisporet Sensor",
+        "description": "Edit a Skisporet sensor",
+        "data": {
+          "name": "Name",
+          "segment_id": "Segment ID"
+        }
+      }
+    },
+    "error": {
+      "name_exists": "Name already exists"
+    }
+  }
+}
